@@ -1,8 +1,16 @@
-## 原圖
-<img width="1095" height="2795" alt="aligned_result" src="https://github.com/user-attachments/assets/921e9967-4778-4aab-bdf9-5bc174ea566e" />
+<table>
+  <tr>
+    <td align="center">
+      <b>原圖</b><br>
+      <img width="350" alt="aligned_result" src="https://github.com/user-attachments/assets/363e67c3-bebd-47e9-a7b5-b03b53c55fcb" />
+    </td>
+    <td align="center">
+      <b>實作範例</b><br>
+      <img width="350" alt="MACB" src="https://github.com/user-attachments/assets/0675ece0-c442-44f9-815d-d90f245378ec" />
+    </td>
+  </tr>
+</table>
 
-## 實作範例
-<img width="1095" height="2795" alt="MACB" src="https://github.com/user-attachments/assets/5e786fd4-05d7-4bda-91e9-50e6dfb56668" />
 
 
 ## Requirements
